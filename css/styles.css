@@ -44,10 +44,13 @@ body {
 }
 
 .team-section {
-    background: #FFFFFF;
+    background: #F4F4FD;
 }
 .hero-section {
     background: #2e2f42;
+}
+.team-member {
+    background-color: #FFFFFF;
 }
 
 .feature-title {
@@ -121,7 +124,7 @@ color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    background-color: #2e2f42;
 }
 .logo {
     font-family: "Raleway", sans-serif;
