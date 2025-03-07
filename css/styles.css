@@ -97,7 +97,7 @@ body {
 }
 
 .team-section {
-    background-color: #FFFFFF
+    background-color: #F4F4FD
 }
 
 .team-title {
@@ -109,6 +109,9 @@ body {
     text-transform: capitalize;
 }
 
+.team-member {
+    background-color: #FFFFFF;
+}
 .team-name {
     font-weight: 500;
     font-size: 20px;
